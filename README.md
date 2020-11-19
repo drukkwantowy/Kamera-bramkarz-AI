@@ -1,3 +1,4 @@
 # Kamera-bramkarz-AI
 Kamera bramkarz posiada w sobie drukarkę kawantową i oporogramowanie do generowania superżołnierza jeśli ktoś włamie nam się na teren. Kamera zapisuje: obraz, adio i zdjęcia w nocy i dzień pracuje 24h. W oprogramowaniu jest AI-Artist, AI-Inżynier, AI-programista. Jeśli kamera rozpozna intruza wroga to pojawia się replikowany bramkarz który na początku informuje że to teren prywatny a potem działa na koniec teleportuje intruza do komisariatu skutego.  
 AI do kamery: https://github.com/drukkwantowy/Uniwersalne-sieci-neuronowe.
+Mogą powstać nowej generacji alarmy. Np.: chronowizor AI wykrył że ktoś ukradnie auto. Auto znika i zapisuje się na inteligentej opasce a włamywacz rozmawia z AI ochroniarzem co tu robi a potem powiadamia policje jak i właścicela domu. Tak można uniknąć kradzierzy. Zgubione klucze można teleportować do opaski jeśli się zapomniało. Kwnatowe zabezpieczenia są lepsze od klasycznej kłudki i lewniwego ochroniarza za 1000 zł. 
